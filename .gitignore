@@ -1,0 +1,13 @@
+# Runtime logs
+logs/
+*.log
+
+# BUSCO downloads its lineage data at runtime, don't commit it
+**/busco_downloads/
+
+# Local test run outputs
+tests/test_results_*.txt
+
+# Local machine-specific config (copied from config.template.sh)
+config/config.sh
+config/config_test.sh
