@@ -211,7 +211,7 @@ OUTPUT_DIR/
 
 ---
 
-## Citation
+## References
 
 If you use this pipeline, please cite:
 
